@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hola, soy Leonardo 👋
 
-<!--
-**leorencalde/leorencalde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+•Soy un Científico de Datos, Ingeniero Civil y Profesional en Gestión de Proyectos (PMP®).
 
-Here are some ideas to get you started:
+•Tengo más de 8 años de experiencia sólida en gestión de construcción, incluida la planificación de proyectos, programación, control de costos y análisis de datos. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•Tengo grandes habilidades de Liderazgo y Comunicación.
+
+•Trabajo en proyectos de Machine Learning y Data Science.
+
+## 🌱 Actualmente estoy aprendiendo
+
+- Deep Learning
+- Desarrollo de aplicaciones con Inteligencia Artificial.
+
+## 💬 Contáctame
+
+- [LinkedIn](https://www.linkedin.com/in/leorenteria/)
+- [Email](leo.rencalderon@gmail.com)
+
+¡Gracias por visitar mi perfil!
